@@ -43,10 +43,9 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality u
 ---
 
 ### 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vansh-saini-6464a4212/))
 - 🌐 [Portfolio](https://yourportfolio.com)
-- 📧 your.email@example.com
-
+- 📧 vanshsaini9311@gmail.com
 ---
 
 ### 📊 GitHub Stats
