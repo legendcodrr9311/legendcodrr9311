@@ -50,10 +50,14 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality u
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p>
-  <img src="!Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=legendcodrr9311&show_icons=true&theme=tokyonight)" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=legendcodrr9311&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendcodrr9311&layout=compact&theme=tokyonight" height="150" />
 </p>
+
+---
 
 ---
 
